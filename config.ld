@@ -1,0 +1,5 @@
+file        = 'src'
+project     = 'Supermoon'
+format      = 'markdown'
+description = 'A set of Lua libraries for general use and fun'
+format      = 'discount'
